@@ -22,3 +22,5 @@ MONGO_URI="YOUR MONGODB URL ITS REQUIRED TO RUN THIS WHOLE PROJECT"```<br>
 You can get MAINBOT_TOKEN from https://discord.com/developers/applications and MONGO_URI from https://mongodb.com/cloud/atlas/register
 # Starting the Project
 For Startup Command use `npm start`
+# Errors?
+Contact me On https://solonodes.xyz Discord My name is Dhvit or Create an Issue on this Repo
